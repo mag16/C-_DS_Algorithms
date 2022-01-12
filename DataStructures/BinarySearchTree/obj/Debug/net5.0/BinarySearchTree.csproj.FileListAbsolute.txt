@@ -1,0 +1,15 @@
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/BinarySearchTree.deps.json
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/BinarySearchTree.runtimeconfig.json
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/BinarySearchTree.runtimeconfig.dev.json
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/BinarySearchTree.dll
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/ref/BinarySearchTree.dll
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/bin/Debug/net5.0/BinarySearchTree.pdb
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.csproj.AssemblyReference.cache
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.AssemblyInfo.cs
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.dll
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/ref/BinarySearchTree.dll
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.pdb
+/Users/marcoguzman/C#_DS_Algorithms/DataStructures/BinarySearchTree/obj/Debug/net5.0/BinarySearchTree.genruntimeconfig.cache
