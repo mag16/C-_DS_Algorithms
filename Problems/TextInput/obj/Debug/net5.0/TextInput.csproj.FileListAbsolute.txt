@@ -1,0 +1,15 @@
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/TextInput.deps.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/TextInput.runtimeconfig.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/TextInput.runtimeconfig.dev.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/TextInput.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/ref/TextInput.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/bin/Debug/net5.0/TextInput.pdb
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.csproj.AssemblyReference.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.AssemblyInfoInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.AssemblyInfo.cs
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/ref/TextInput.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.pdb
+/Users/marcoguzman/C#_DS_Algorithms/Problems/TextInput/obj/Debug/net5.0/TextInput.genruntimeconfig.cache

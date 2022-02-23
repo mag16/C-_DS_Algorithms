@@ -1,0 +1,15 @@
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.csproj.AssemblyReference.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.AssemblyInfoInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.AssemblyInfo.cs
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.csproj.CoreCompileInputs.cache
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/RepeatingSong.deps.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/RepeatingSong.runtimeconfig.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/RepeatingSong.runtimeconfig.dev.json
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/RepeatingSong.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/ref/RepeatingSong.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/bin/Debug/net5.0/RepeatingSong.pdb
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/ref/RepeatingSong.dll
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.pdb
+/Users/marcoguzman/C#_DS_Algorithms/Problems/RepeatingSong/obj/Debug/net5.0/RepeatingSong.genruntimeconfig.cache
